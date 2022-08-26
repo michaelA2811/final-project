@@ -1,0 +1,8 @@
+server:
+  port: 8084
+
+db:
+  dbname: "finalproject"
+  dbuser: "root"
+  dbpassword: "admin12345"
+  dbdriver: "mysql"
